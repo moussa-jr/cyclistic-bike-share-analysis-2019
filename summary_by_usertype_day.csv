@@ -1,0 +1,15 @@
+usertype,day_name,rides,avg_min,median_min
+Customer,Monday,101489,54.49988931,25.93333333
+Customer,Tuesday,88655,57.41328389,24.05
+Customer,Wednesday,89745,60.33406634,23.6
+Customer,Thursday,101372,59.9511226,24
+Customer,Friday,121141,60.17561065,25.13333333
+Customer,Saturday,208056,54.06111039,27.73333333
+Customer,Sunday,170173,56.18519487,27
+Subscriber,Monday,458780,14.24928386,9.666666667
+Subscriber,Tuesday,497025,14.15259199,9.65
+Subscriber,Wednesday,494277,13.80984475,9.7
+Subscriber,Thursday,486915,13.77979185,9.65
+Subscriber,Friday,456966,13.8974776,9.533333333
+Subscriber,Saturday,287163,16.30270508,10.66666667
+Subscriber,Sunday,256234,15.40290184,10.53333333

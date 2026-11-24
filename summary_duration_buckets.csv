@@ -1,0 +1,9 @@
+usertype,duration_bucket,rides,pct_within_usertype
+Customer,0-15 min,214634,24.37
+Customer,15-30 min,304817,34.61
+Customer,30-60 min,215668,24.49
+Customer,60+ min,145512,16.52
+Subscriber,0-15 min,2110806,71.86
+Subscriber,15-30 min,658870,22.43
+Subscriber,30-60 min,155450,5.29
+Subscriber,60+ min,12234,0.42
