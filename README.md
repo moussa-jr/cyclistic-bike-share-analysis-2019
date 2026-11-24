@@ -32,7 +32,7 @@ Converting casual riders into annual subscribers is a key growth driver for bike
 
 ### 4. Interactive Tableau Dashboard
 * Connects weekly patterns, seasonal trends, duration segments, and top starting stations in one unified view.
-* **Live Dashboard:** `[(https://public.tableau.com:9443/views/CyclisticBike-Share2019Subscribervs_CustomerBehavior_/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]`
+* **Live Dashboard:** [Cyclistic Bike-Share 2019: Subscriber vs. Customer Behavior](https://public.tableau.com:9443/views/CyclisticBike-Share2019Subscribervs_CustomerBehavior_/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
